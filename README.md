@@ -12,3 +12,7 @@ The colored robots are assigned to the same colored task; for example, yellow ro
 the distance from the robot to the task.
 
 For more details, please refer to the paper.
+
+## Brief Description about the Codes
+
+Available at: https://github.com/inmo-jang/GRAPE/blob/master/Fig_7_Visualisation/README.md
